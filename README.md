@@ -4,7 +4,7 @@ I made this website following along with Jonas Schmedtmann's HTML and CSS Tutori
 
 ## Demo🚀
 
-Check the live site [here](https://readme.so/editor)
+Check the live site [here](https://omnifood-teal.vercel.app/)
 
 ## Acknowledgements🪪
 
